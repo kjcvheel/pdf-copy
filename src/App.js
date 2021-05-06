@@ -8,7 +8,7 @@ import Tab from '@material-ui/core/Tab';
 import Grid from './components/grid';
 
 const NAMES = ['lecture'];
-const AMTS = [2];
+const AMTS = [1];
 
 function App() {
   const [qry, setQry] = useState('');
